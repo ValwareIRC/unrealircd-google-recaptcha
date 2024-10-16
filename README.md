@@ -1,4 +1,4 @@
-# UnrealIRCd Google reCAPTCHA Verification Page
+# UnrealIRCd Google reCAPTCHA Verification Page [![BETA](https://img.shields.io/badge/-BETA-red.svg)]()
 ### _Please make sure you have read and installed the prerequisites from the [module documentation page](https://github.com/ValwareIRC/valware-unrealircd-mods/blob/main/google-recaptcha/google-recaptcha.md)_
 The verification page for UnrealIRCd Google reCAPTCHA Module
 
