@@ -68,7 +68,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 ?>
 <!DOCTYPE html>
-<html lang="tr">
+<html>
 <script src="https://www.google.com/recaptcha/api.js?render=<?php echo CAPTCHA_SITE_KEY; ?>"></script>
 <script>
     function onSubmit(token) {
