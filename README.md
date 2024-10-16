@@ -1,5 +1,5 @@
 # UnrealIRCd Google reCAPTCHA Verification Page
-### _Please make sure you have read and installed the prerequisites from the [module documentation page](https://github.com/ValwareIRC/valware-unrealircd-mods/blob/main/google-recaptcha/google-recaptcha.md)
+### _Please make sure you have read and installed the prerequisites from the [module documentation page](https://github.com/ValwareIRC/valware-unrealircd-mods/blob/main/google-recaptcha/google-recaptcha.md)_
 The verification page for UnrealIRCd Google reCAPTCHA Module
 
 <img src="https://i.ibb.co/r5c0sw1/Screenshot-from-2024-10-16-08-50-11.png" style="width:500px;height:250px">
