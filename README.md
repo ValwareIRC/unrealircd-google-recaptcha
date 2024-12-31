@@ -8,7 +8,7 @@ The verification page for UnrealIRCd Google reCAPTCHA Module
 A rough guide to install which assumes you want to install into `/var/www/html/verify` (`https://example.com/verify`) and your webserver user is `www-data` on Ubuntu/Debian:
 ```
 cd /var/www/html/
-git clone https://github.com/ValwareIRC/unrealircd-google-recaptcha verify
+sudo -u www-data git clone https://github.com/ValwareIRC/unrealircd-google-recaptcha verify
 cd verify
 sudo -u www-data composer install
 ```
